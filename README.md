@@ -1,14 +1,17 @@
 # Carangos SA
-## Projeto de Migração para Java
 
-Este projeto foi inicialmente desenvolvido em VisualG como um trabalho colaborativo dos alunos Rodrigo, @Eriva-Tegin e Diego(eu), na disciplina de lógica de programação orientada pelo professor Washington. Posteriormente, o projeto foi migrado para Java por mim como parte de meu aprendizado pessoal e para explorar recursos mais avançados da linguagem.
+## Descrição do Algoritmo
 
-> VisualG é uma aplicação gratuita utilizada para edição, interpretação e execução de algoritmos, semelhante à linguagem Portugol. É amplamente utilizado em instituições de ensino para o ensino de lógica de programação.
+Este projeto implementa um algoritmo para gerenciamento de produção, recursos humanos, financeiro e estoque. Desenvolvido em Java, o algoritmo visa otimizar e automatizar processos empresariais com uma abordagem moderna e eficiente.
 
 ### Funcionalidades Atuais:
-- Implementação em Java
-- Funcionalidades de gerenciamento de produção, RH, financeiro e estoque.
+- Implementação completa em Java.
+- Gerenciamento de produção.
+- Gestão de recursos humanos.
+- Controle financeiro.
+- Administração de estoque.
 
-Este projeto continua em evolução à medida que continuo a explorar novas técnicas e funcionalidades em Java.
+O projeto está em constante evolução, com melhorias e novas funcionalidades sendo adicionadas continuamente.
 
-**O projeto original foi concebido pelos colegas Rodrigo, @Eriva-Tegin e Diego(eu), e posteriormente migrado para Java por mim.**
+**Observação:** O algoritmo foi desenvolvido e aprimorado com foco na aplicação prática e eficiência.
+
